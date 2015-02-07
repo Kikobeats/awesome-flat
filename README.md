@@ -6,6 +6,7 @@
 
 * [flatuicolors.com](http://flatuicolors.com).
 * [flatuicolorpicker.com](http://www.flatuicolorpicker.com).
+* [materialup.com](http://www.materialup.com/tools/colors)
 * [Google Material Design Colors](http://www.google.com/design/spec/style/color.html).
 
 ## Icons
