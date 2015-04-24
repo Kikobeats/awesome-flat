@@ -15,6 +15,7 @@
 * [Roundicons](http://roundicons.com/) [vol1](http://www.smashingmagazine.com/2014/01/24/roundicons-set-60-icons-png-ai-source/) / [vol2](http://www.smashingmagazine.com/2014/04/01/freebie-flat-icon-set-60-icons-png-svg-eps-psd-ai/).
 * [195 Flat Flags](https://dribbble.com/shots/1211759-Free-195-Flat-Flags).
 * Free Flat Icons by Studio4 [vol1](https://dribbble.com/shots/1201666-Free-Flat-Icons) / [vol2](https://dribbble.com/shots/1380706-Free-Flat-Icons-2).
+* [Flat colors Icons](http://icons8.com/c/flat-color-icons).
 
 ## CSS
 
